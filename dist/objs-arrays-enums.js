@@ -25,3 +25,4 @@ for (var _i = 0, _a = person.hobbies; _i < _a.length; _i++) {
 if (person.role === Role.ADMIN) {
     console.log('is read only');
 }
+//# sourceMappingURL=objs-arrays-enums.js.map

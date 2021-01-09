@@ -1,4 +1,4 @@
-function add_old(n1: number, n2: number, showResult: boolean, phrase: string) {
+function add_old2(n1: number, n2: number, showResult: boolean, phrase: string) {
     if (showResult) {
       console.log(n1 + n2);
     } else {
@@ -11,6 +11,6 @@ function add_old(n1: number, n2: number, showResult: boolean, phrase: string) {
   const printResult = true;
   const resultPhrase = "Result is: ";
   
-  const result = add_old(number1, number2, printResult, resultPhrase);
+  const result = add_old2(number1, number2, printResult, resultPhrase);
   console.log(result);
   
